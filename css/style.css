@@ -4,17 +4,18 @@
 .title {
     text-align: center;
     font-size: 40px;
+    color: #78A083;
+    background-color: #35374B;
+}
+
+.heading {
+    font-size: 20px;
     color: #35374B;
     background-color: #78A083;
 }
 
 .links {
     color: #BE3144;
-}
-
-.image-container {
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .images {
