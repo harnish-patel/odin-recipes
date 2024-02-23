@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, Tahoma, "Times New Roman";
+}
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: #35374B;
+    background-color: #78A083;
+}
+
+.links {
+    color: #BE3144;
+}
+
+.image-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images {
+    height: 300px;
+    width: auto;
+}
