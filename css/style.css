@@ -22,3 +22,13 @@
     height: 300px;
     width: auto;
 }
+
+.landing-page-container {
+    display: inline-block;
+}
+
+.landing-page-images {
+    width: 300px;
+    height: auto;
+    margin: 5px;
+}
